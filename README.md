@@ -1,6 +1,6 @@
-<h2> Hi, I'm Saurabh K Jha! <img src="https://media.giphy.com/gifs/transparent-D4wj7Ffx9fsEAy7B0h" width="50"></h2>
+<h2> Hi, I'm Saurabh K Jha! <img src="https://media.giphy.com/media/D4wj7Ffx9fsEAy7B0h/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="230">
 
 
 I am <b>Saurabh K Jhal</b>.
@@ -8,17 +8,18 @@ I am an optimisitic, focusing. :sparkles: <br>
 
 I like listening to music 🎧, watching TV shows and Movies 🍿
 
-- 💻 <b>Code:</b>  Java, Flutter, Node.js 
+- 💻 <b>Code:</b>  Java, Flutter, Node.js
+- 📆 <b>Started new coding journey
  
 
 🚀 Some of my projects 🔽
 
-- <img src="https://raw.githubusercontent.com/saurabhjha06/PCS" width="20" height="20"> [Patient Consultation System ] - Platform to book appointment to nearest doctor.
+💻 (https://github.com/saurabhjha06/PCS) - Patient consultation system
 
 
 
 
-<a href="https://twitter.com/foreever_mine@06">
+<a href="https://twitter.com/forever_mine06">
   <img align="left" alt="Saurabh's Twitter" height=50 src="https://img.icons8.com/bubbles/512/twitter-squared.png"/>
 </a>
 
